@@ -10,9 +10,9 @@ Below is a short summary of Gafargan project. It descriibes goals and objectives
 
 ## Goals and Objectives
 
-Gafargan is an online dictionary that aims to help people of endangered languages to preserve and enrich their languages. The goal is that through Gafargan, native people and linguists can easily access and contribute to their languages' dictionaries. The project is open source and we welcome contributions from anyone who is interested in preserving and enriching endangered languages.
+Gafargan [_pronounced as_ `/ˈɡɑfɑrɡɑn/`, _means dictionary in Lezgi_] is an online dictionary that aims to help people of endangered languages to preserve and enrich their languages. The goal is that through Gafargan, native people and linguists can easily access and contribute to their languages' dictionaries. The project is open source and we welcome contributions from anyone who is interested in preserving and enriching endangered languages.
 
-Currently, Gafargan has most of its data in Lezgi language, but there is also data in Tabasaran and we are hoping to add more languages in the future.
+Currently, Gafargan has most of its data available for [Lezgi language](https://en.wikipedia.org/wiki/Lezgian_language), but there is also dictionary data for [Tabasaran](https://en.wikipedia.org/wiki/Tabasaran_language) and we are hoping to add more languages in the future.
 
 ## Technology Stack
 
